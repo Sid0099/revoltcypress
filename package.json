@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Sid0099/revoltcypress#readme",
   "dependencies": {
-    "cypress": "^13.3.1"
+    "cypress": "^13.3.1",
+    "typescript": "^5.2.2"
   }
 }
