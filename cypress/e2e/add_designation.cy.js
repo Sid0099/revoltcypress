@@ -20,7 +20,9 @@ describe('Login page test cases',()=>{
         cy.get('#designation_name').type('President {enter}')
         cy.contains('Status').click()
         cy.contains('Inactive').click()
-        cy.contains('Submit').click
+        cy.contains('Submit').click()
+        
+
 
 
 
